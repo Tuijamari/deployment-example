@@ -1,6 +1,5 @@
 # deployment-example
-<<<<<<< HEAD
-<htmlThis is my homepage. 
+This is my homepage. 
 =======
 Welcome to my hompage.
  
